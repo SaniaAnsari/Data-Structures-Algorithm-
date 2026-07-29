@@ -1,6 +1,20 @@
 # 🏨 Hotel Management System
+##  Project Overview
 
-A console-based Hotel Management System developed in **C++** using **Data Structures and Algorithms (DSA)**. This project manages hotel room reservations, guest records, billing, waiting lists, and file storage through a simple menu-driven interface.
+This project was developed as a **Semester Project** for the **Data Structures and Algorithms (DSA)** course during my **2nd Year BS Computer Science** program.
+
+The project demonstrates the practical implementation of fundamental data structures in a real-world application. It provides a menu-driven console-based system to manage hotel operations, including room management, guest registration, billing, waiting lists, and data storage using file handling.
+
+---
+
+##  Project Objectives
+
+- Apply Data Structures and Algorithms concepts in a real-world project.
+- Develop a menu-driven Hotel Management System using C++.
+- Implement Linked Lists for managing room and guest records.
+- Implement Queue for handling the waiting list.
+- Store and retrieve data using File Handling.
+- Strengthen problem-solving and programming skills.
 
 ---
 
@@ -105,9 +119,15 @@ University of Karachi
 
 ---
 
-##  License
+##  Academic Information
 
-This project is developed for educational purposes.
+**Course:** Data Structures and Algorithms (DSA)
+
+**Project Type:** Semester Project
+
+**Department:** Computer Science 
+
+**University:** University of Karachi UBIT
 
 ---
 
