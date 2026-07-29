@@ -4,31 +4,22 @@ A console-based Hotel Management System developed in **C++** using **Data Struct
 
 ---
 
-## 📌 Features
+##  Features
 
-- 🛏️ Add and Manage Rooms
-- 👤 Guest Check-In
-- 🚪 Guest Check-Out
-- 🔍 Search Room
-- 📋 Display Available Rooms
-- 💰 Automatic Bill Generation
-- ⏳ Waiting List Management using Queue
-- 💾 Save Data using File Handling
-- 📂 Load Saved Data Automatically
-
----
-
-## 🛠 Technologies Used
-
-- C++
-- Data Structures
-- Linked List
-- Queue
-- File Handling
+-  Add and Manage Rooms
+-  Guest Check-In
+-  Guest Check-Out
+-  Search Room
+-  Display Available Rooms
+-  Automatic Bill Generation
+-  Waiting List Management using Queue
+-  Save Data using File Handling
+-  Load Saved Data Automatically
 
 ---
 
-## 📚 Data Structures Used
+
+##  Data Structures Used
 
 | Data Structure | Purpose |
 |---------------|---------|
@@ -56,7 +47,7 @@ HotelManagementSystem/
 
 ---
 
-## 📄 File Description
+##  File Description
 
 | File | Description |
 |------|-------------|
@@ -68,7 +59,7 @@ HotelManagementSystem/
 
 ---
 
-## ⚙️ How to Run
+##  How to Run
 
 1. Clone this repository.
 
@@ -93,7 +84,7 @@ g++ HMS.cpp -o HMS
 ---
 
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 - Dynamic Memory Allocation
 - Linked List Operations
@@ -114,7 +105,7 @@ University of Karachi
 
 ---
 
-## 📜 License
+##  License
 
 This project is developed for educational purposes.
 
