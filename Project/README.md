@@ -92,45 +92,6 @@ g++ HMS.cpp -o HMS
 
 ---
 
-## 📸 Screenshots
-
-### Main Menu
-
-<img width="398" height="311" alt="image" src="https://github.com/user-attachments/assets/9a3d8a49-ff50-4d39-84f9-d01bbe416005" />
-
-
----
-
-### Room Management
-
-(Add screenshot here)
-
----
-
-### Guest Check-In
-
-(Add screenshot here)
-
----
-
-### Bill Generation
-
-(Add screenshot here)
-
----
-
-## 🚀 Future Enhancements
-
-- Admin Login System
-- Customer Login
-- Password Protection
-- Room Categories
-- Online Booking
-- Database Integration (MySQL)
-- GUI Version
-- Payment Integration
-
----
 
 ## 🎯 Learning Outcomes
 
