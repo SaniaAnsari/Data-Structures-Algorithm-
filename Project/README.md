@@ -123,6 +123,8 @@ University of Karachi
 
 **Course:** Data Structures and Algorithms (DSA)
 
+**Course Instructor:** Ms Mariam Feroz
+
 **Project Type:** Semester Project
 
 **Department:** Computer Science 
