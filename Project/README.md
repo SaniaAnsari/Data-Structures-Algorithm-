@@ -96,7 +96,8 @@ g++ HMS.cpp -o HMS
 
 ### Main Menu
 
-(Add screenshot here)
+<img width="398" height="311" alt="image" src="https://github.com/user-attachments/assets/9a3d8a49-ff50-4d39-84f9-d01bbe416005" />
+
 
 ---
 
@@ -142,7 +143,7 @@ g++ HMS.cpp -o HMS
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Sania Ansari**
 
